@@ -61,7 +61,7 @@ mlb-payroll-analysis/
 ## How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/mlb-payroll-analysis.git
+git clone [https://github.com/mikaylawalker/mlb-payroll-analysis.git]
 
 # Navigate to directory
 cd mlb-payroll-analysis
