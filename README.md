@@ -49,7 +49,7 @@ Analysis exploring the relationship between MLB team spending and on-field succe
 ## Project Structure
 ```
 mlb-payroll-analysis/
-├── mlb_analysis.py              # Main analysis script
+├── mlb.py                       # Main analysis script
 ├── mlb_payroll.csv              # Source data (2025 season)
 ├── mlb_payroll_summary.csv      # Processed results
 ├── top_10_payrolls.png          # Visualization 1
@@ -70,7 +70,7 @@ cd mlb-payroll-analysis
 pip install pandas matplotlib seaborn numpy
 
 # Run the analysis
-python mlb_analysis.py
+python mlb.py
 ```
 
 ## Sample Output
